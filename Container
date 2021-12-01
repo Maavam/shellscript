@@ -1,3 +1,12 @@
-# shellscript 
+containers
 
- This is about shellscript
+docker imagese 
+
+docker ps
+
+docker ps -a
+
+ddocker run -itd ubuntu
+
+written instrution of docker file is created as docker image
+docker image is static image
